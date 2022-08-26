@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="blink">Blink</string>
+    <string name="bounce">Bounce</string>
+    <string name="fade_in">Fade In</string>
+    <string name="move">move</string>
+    <string name="rotate">Rotate</string>
+    <string name="fade_o">Fade o</string>
+    <string name="sequentual">sequentual</string>
+    <string name="slide_down">slide down</string>
+    <string name="slide_up">slide up</string>
+    <string name="together">Together</string>
+    <string name="zoom_in">zoom in</string>
+    <string name="zoom_out">zoom out</string>
+    <string name="go_to_second_activity">go to second activity</string>
+</resources>
